@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Propiedad  5 Ambientes. Palermo!",
+    "price": 560000,
+    "description": "Casa de dos dormitorios, cocina, living comedor, toilette, baño completo, entrada para autos y patio.",
+    "code": "X123SS",
+    "stock": 1,
+    "thumbnail": "http://localhost:8080/images/1660153208638.jpeg",
+    "id": 1,
+    "timestamp": 1660097747515
+  },
+  {
+    "title": "Propiedad 8 Ambientes. Villa Ballester!",
+    "price": 430000,
+    "description": "Casa de diseño con tres/cuatro dormitorios, amplio living-comedor con cocina integrada, pileta, galería y parque.",
+    "code": "X123SS2",
+    "stock": 1,
+    "thumbnail": "http://localhost:8080/images/1660153312778.jpeg",
+    "id": 2,
+    "timestamp": 1660152784901
+  },
+  {
+    "title": "Duplex 3 Ambientes. Caballito!",
+    "price": 507000,
+    "description": "Duplex, 3 Ambientes, Cocina completa, Comedor / Living, Baño y Cuarto matrimonial.",
+    "code": "X123SS",
+    "stock": 1,
+    "thumbnail": "http://localhost:8080/images/1660153535771.jpeg",
+    "id": 3,
+    "timestamp": 1660152985945
+  }
+]
